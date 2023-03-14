@@ -748,8 +748,8 @@ input[type="number"] {
   }
 
   header .navbar a {
-    margin: 1.5rem;
-    padding: 1.5rem;
+    margin: 1%;
+    padding: 1%;
     display: block;
     border: .2rem solid rgba(0, 0, 0, .1);
     border-left: .5rem solid var(--red);
